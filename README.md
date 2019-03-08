@@ -1,3 +1,9 @@
-# friendly-collab-party
+# Friendly collab meeting
 
-I want to learn how to make script based documents that can be shared and edited by collaborators.
+## Project description
+
+Hi! This is my new collaborative project. 
+Purposes of my project
+
+- Learn about versions
+- Learn about collaboration
